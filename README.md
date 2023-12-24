@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**chrishyoroklee/chrishyoroklee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+My name is Chris Hyorok Lee, and I am a musician from South Korea!
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
